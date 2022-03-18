@@ -21,11 +21,6 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/GOEG0231/s22/mapGrades/</loc>
-         <lastmod>2022-03-18</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://github.com/GOEG0231/s22/monochrome/</loc>
          <lastmod>2022-03-18</lastmod>
          <changefreq>daily</changefreq>
@@ -37,6 +32,11 @@
     </url>
     <url>
          <loc>https://github.com/GOEG0231/s22/policies/</loc>
+         <lastmod>2022-03-18</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://github.com/GOEG0231/s22/projectGrades/</loc>
          <lastmod>2022-03-18</lastmod>
          <changefreq>daily</changefreq>
     </url>
