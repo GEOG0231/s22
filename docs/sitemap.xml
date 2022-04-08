@@ -46,6 +46,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://github.com/GOEG0231/s22/relief/</loc>
+         <lastmod>2022-04-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://github.com/GOEG0231/s22/slippy/</loc>
          <lastmod>2022-04-08</lastmod>
          <changefreq>daily</changefreq>
